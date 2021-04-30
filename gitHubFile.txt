@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello github. here is my change
+=======
+Hello github. I am changing the file.
+>>>>>>> e39db26848b9baca0579d22b99fefcda69b4e291
